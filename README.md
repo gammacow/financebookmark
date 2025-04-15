@@ -1,4 +1,4 @@
-# financebookmark
+# Finance Bookmark
 This bookmark is for study only. Will be updated periodically.
 
 ## Financial calculator skills
